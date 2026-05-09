@@ -1,10 +1,9 @@
 PRAGMA foregin_keys = ON;
 
 CREATE TABLE IF NOT EXISTS Foodbank (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    Food_Name TEXT NOT NULL,
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    Food_Name  TEXT NOT NULL,
     Category TEXT Not NULL, 
-    Price REAL, 
     Protein REAL,
     Zinc REAL,
     Calcium REAL,
@@ -18,8 +17,17 @@ CREATE TABLE IF NOT EXISTS Foodbank (
     Benefit TEXT
 );
 
-INSERT INTO Foodbank(Food_name, Category, Price, Protein, Zinc, Calcium, Vitamin_A, Vitamin_B, Iron, Carbs, Fiber, Fat, Energy, Benefit)
-VALUES ("", "", "", "", "", "", "", "", "",)
+CREATE TABLE IF NOT EXISTS User_log (
+    Id INTEGER   PRIMARY KEY AUTOINCREMENT,
+    Foodbank_id INTEGER,
+    Quantity REAL NOT NULL, 
+
+    FOREIGN KEY (Foodbank_id)
+    REFERENCES Foodbank(Id)
+
+ )
+ 
+
 
 
 

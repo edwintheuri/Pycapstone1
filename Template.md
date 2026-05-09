@@ -21,11 +21,11 @@ Vs Code - Developement
 Don’t just say “dashboard done.”
 Share the “aha!” moments, they matter more that the visuals
 
-Can we really get nutritiuous food  under 100 bob 
+Can we really get nutritiuous food   
 
-I want to solve the issue to get better value of food under  budget
+I want to solve the issue to get better value of food 
 
-Food inflation is real with 8% inflation, people need a way to get a proper meal with the budget they have.
+According to insights from  there is a huge number of  people that are malnutritioned from nutrients like Zinc.
 
 
 
@@ -34,7 +34,7 @@ Be specific. Think money saved, process improves, better decisions made
 That’s your real value
 
  
-- Community better health reducing doctor visits 
+- Better community health improves the wellbeing of the community
 
 - Businesses that deal with body issues
 

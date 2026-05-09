@@ -1,20 +1,12 @@
 # Pycapstone1
 Repo for my capstone project
+1. ## Project Description 
+    - This project is a python-based nutritional tracking system that analyzes what use eats and calculates the intake using sql database
 
-1  Nutrition APP
+    -  The app stores Nutritional data in Foodbank table and user recordings in the User_log table
 
-2 Tools 
+    - Finally it analyzes the data logged and provides feedback to the user
 
-- Python 
+2. ## Features in the app 
 
-- VS Code
-
-- Sqlite
-
-
-3 Data Sources 
-
--  National Informations Platform for food security and Nutrition 
-            https://nipfn.knbs.or.ke/
-
-
+    - 
