@@ -29,5 +29,5 @@ CREATE TABLE IF NOT EXISTS User_log (
  
 
 
-
+SELECT FROM foodbank WHERE food = ?, (food_name)
 

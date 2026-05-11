@@ -9,4 +9,7 @@ Repo for my capstone project
 
 2. ## Features in the app 
 
-    - 
+    - Logging user food data eg (food)
+    - Returning nutritional data of the food eg ( zinc : 3.5 , calcium : 4.0)
+
+3. ## 
